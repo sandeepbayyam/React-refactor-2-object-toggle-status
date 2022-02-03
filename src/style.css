@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+li{
+  font-size: x-large;
+  font-weight: bold;
+}
+.green{
+  color: green;
+}
+.red{
+  color: red;
+}
